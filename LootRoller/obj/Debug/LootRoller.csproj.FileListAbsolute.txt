@@ -1,0 +1,9 @@
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\LootRoller.csprojResolveAssemblyReference.cache
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\LootRoller.Default.resources
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\LootRoller.Properties.Resources.resources
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\LootRoller.csproj.GenerateResource.Cache
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\bin\Debug\Loot Roller.exe.config
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\bin\Debug\Loot Roller.exe
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\bin\Debug\Loot Roller.pdb
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\Loot Roller.exe
+C:\Crap Inserted\Hjemme Projekter\LootRoller\LootRoller\obj\Debug\Loot Roller.pdb
